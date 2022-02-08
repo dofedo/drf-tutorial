@@ -1,1 +1,2 @@
-# DRF tutorial.\n https://www.django-rest-framework-org examples
+# DRF tutorial
+https://www.django-rest-framework-org examples
