@@ -4,6 +4,10 @@ Examples: {
     tuti: {
         link: "https://www.django-rest-framework.org/"
         desc: read-write api for accessing information on the users of our project.
-    }
-    
+    },
+    tutii: {
+        link: "https://www.django-rest-framework.org/tutorial/quickstart/"
+        desc: We're going to create a simple API to allow admin users to view and edit the users and groups in the system.
+    },
+
 }
