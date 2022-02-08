@@ -1,6 +1,6 @@
 from django.urls import include, path
 from rest_framework import routers
-from tutii.qs import views
+from quickstart.qs import views
 
 """
     Because we're using viewsets instead of views, we can automatically generate the URL conf for our API, 

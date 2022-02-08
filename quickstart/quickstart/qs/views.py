@@ -1,7 +1,7 @@
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets
 from rest_framework import permissions
-from tutii.qs.serializers import UserSerializer, GroupSerializer
+from quickstart.qs.serializers import UserSerializer, GroupSerializer
 
 # Rather than write multiple views we're grouping together all the common behavior into classes called ViewSets.
 class UserViewSet(viewsets.ModelViewSet):

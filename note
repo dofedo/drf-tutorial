@@ -1,11 +1,11 @@
 # This repository is about a tutorial tour of django-rest-framework(DRF)
 # Examples of https://django-rest-framework.org/
 Examples: {
-    tuti: {
+    start: {
         link: "https://www.django-rest-framework.org/"
         desc: read-write api for accessing information on the users of our project.
     },
-    tutii: {
+    quickstart: {
         link: "https://www.django-rest-framework.org/tutorial/quickstart/"
         desc: We're going to create a simple API to allow admin users to view and edit the users and groups in the system.
     },
